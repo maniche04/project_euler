@@ -1,6 +1,6 @@
 <?php
 
-function get_factors($number) {
+function get_factors($number) { //does not appear to work at the very moment!
     $factors = array();
     $factors[] = $number;
     $testnum = 2;
