@@ -1,0 +1,27 @@
+New number found: 1 with 1 factors. <br> 
+New number found: 3 with 2 factors. <br> 
+New number found: 6 with 4 factors. <br> 
+New number found: 28 with 5 factors. <br> 
+New number found: 36 with 6 factors. <br> 
+New number found: 120 with 8 factors. <br> 
+New number found: 528 with 9 factors. <br> 
+New number found: 2016 with 11 factors. <br> 
+New number found: 25200 with 13 factors. <br> 
+New number found: 32640 with 14 factors. <br> 
+New number found: 73920 with 15 factors. <br> 
+New number found: 523776 with 16 factors. <br> 
+New number found: 2162160 with 17 factors. <br> 
+New number found: 8386560 with 21 factors. <br> 
+New number found: 231221760 with 22 factors. <br> 
+New number found: 838840320 with 23 factors. <br> 
+New number found: 2147450880 with 24 factors. <br> 
+New number found: 2420003300001 with 5 factors. <br> 
+New number found: 1 with 1 factors. <br> 
+New number found: 3 with 2 factors. <br> 
+New number found: 6 with 4 factors. <br> 
+New number found: 28 with 5 factors. <br> 
+New number found: 36 with 6 factors. <br> 
+New number found: 120 with 8 factors. <br> 
+New number found: 528 with 9 factors. <br> 
+New number found: 2016 with 11 factors. <br> 
+The greatest factor is: 11 for the triangle number: 2016
